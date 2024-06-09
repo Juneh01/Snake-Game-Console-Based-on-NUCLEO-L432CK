@@ -8,4 +8,4 @@ At the time when our fathers were kids, there were not such powerful game consol
 
 ## Results
 ![image](https://github.com/Juneh01/Snake-Game-Console-Based-on-NUCLEO-L432CK/blob/main/Schematic.PNG)
-![image]()
+![image](https://github.com/Juneh01/Snake-Game-Console-Based-on-NUCLEO-L432CK/blob/main/PhysicalCircuit.png)
