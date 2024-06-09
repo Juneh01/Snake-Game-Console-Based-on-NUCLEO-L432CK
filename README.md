@@ -7,3 +7,5 @@ At the time when our fathers were kids, there were not such powerful game consol
 *Due to this project was done long time ago, the technique report would be unavilaible, sorry.
 
 ## Results
+![image](https://github.com/Juneh01/Snake-Game-Console-Based-on-NUCLEO-L432CK/blob/main/Schematic.PNG)
+![image]()
